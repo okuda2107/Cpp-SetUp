@@ -1,4 +1,4 @@
-# C/C++-SetUp
+# C++-SetUp
 ## 動作確認環境
 * Windows 11
 * vscode
