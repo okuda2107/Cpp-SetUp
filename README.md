@@ -6,4 +6,4 @@
         - WSL
         - Dev Conainers
 * WSL
-* Docker
+* Docker Desktop
